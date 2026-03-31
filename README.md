@@ -1,5 +1,3 @@
-.
-
 🧠 Mental Health Companion
 A web-based platform that helps users monitor and improve their emotional well-being through mood tracking, journaling, and supportive tools.
 
@@ -7,26 +5,33 @@ A web-based platform that helps users monitor and improve their emotional well-b
 Mental Health Companion is designed to provide a safe digital environment where users can express their feelings, track their mood patterns, and maintain personal journals. The application aims to encourage self-reflection and promote better mental wellness.
 
 🚀 Tech Stack
+
 Frontend
 
 React.js
 HTML5
 CSS3
+
 Backend
 
 Python
 Django
+
 Database
 
 MySQL
+
 ✨ Features
+
 🔐 User Authentication (Register & Login)
 😊 Daily Mood Tracking
 📓 Personal Journal Writing
 📊 Mood History Tracking
 🖥️ Simple and Responsive User Interface
 🔒 Secure Data Management
+
 📂 Project Structure
+
 mental-health-companion
 │
 ├── backend
@@ -40,45 +45,61 @@ mental-health-companion
 │   └── package.json
 │
 └── README.md
+
 ⚙️ Installation Guide
+
 1️⃣ Clone the Repository
+
 git clone https://github.com/your-username/mental-health-companion.git
+
 2️⃣ Navigate to the Project
+
 cd mental-health-companion
+
 3️⃣ Backend Setup (Django)
+
 Install dependencies
 
 pip install -r requirements.txt
+
 Run migrations
 
 python manage.py migrate
+
 Start Django server
 
 python manage.py runserver
+
 4️⃣ Frontend Setup (React)
+
 Move to frontend folder
 
 cd frontend
+
 Install packages
 
 npm install
+
 Start React app
 
 npm start
+
 🗄️ Database
 The application uses MySQL for storing:
 
 User account details
 Mood tracking records
 Journal entries
+
 🎯 Objective
 The objective of this project is to build a digital mental wellness platform that encourages users to track their emotions, express their thoughts, and maintain a healthier mental state.
 
 🔮 Future Improvements
+
 AI chatbot for emotional support
 Mood analytics and visual graphs
 Meditation and relaxation suggestions
 Mobile responsive improvements
+
 👨‍💻 Author
 Developed by JAYAPPRATHA N
-
