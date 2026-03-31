@@ -1,70 +1,84 @@
-# Getting Started with Create React App
+.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🧠 Mental Health Companion
+A web-based platform that helps users monitor and improve their emotional well-being through mood tracking, journaling, and supportive tools.
 
-## Available Scripts
+📖 Overview
+Mental Health Companion is designed to provide a safe digital environment where users can express their feelings, track their mood patterns, and maintain personal journals. The application aims to encourage self-reflection and promote better mental wellness.
 
-In the project directory, you can run:
+🚀 Tech Stack
+Frontend
 
-### `npm start`
+React.js
+HTML5
+CSS3
+Backend
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Python
+Django
+Database
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+MySQL
+✨ Features
+🔐 User Authentication (Register & Login)
+😊 Daily Mood Tracking
+📓 Personal Journal Writing
+📊 Mood History Tracking
+🖥️ Simple and Responsive User Interface
+🔒 Secure Data Management
+📂 Project Structure
+mental-health-companion
+│
+├── backend
+│   ├── mental_health_app
+│   ├── manage.py
+│   └── requirements.txt
+│
+├── frontend
+│   ├── public
+│   ├── src
+│   └── package.json
+│
+└── README.md
+⚙️ Installation Guide
+1️⃣ Clone the Repository
+git clone https://github.com/your-username/mental-health-companion.git
+2️⃣ Navigate to the Project
+cd mental-health-companion
+3️⃣ Backend Setup (Django)
+Install dependencies
 
-### `npm test`
+pip install -r requirements.txt
+Run migrations
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+python manage.py migrate
+Start Django server
 
-### `npm run build`
+python manage.py runserver
+4️⃣ Frontend Setup (React)
+Move to frontend folder
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+cd frontend
+Install packages
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+npm install
+Start React app
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+npm start
+🗄️ Database
+The application uses MySQL for storing:
 
-### `npm run eject`
+User account details
+Mood tracking records
+Journal entries
+🎯 Objective
+The objective of this project is to build a digital mental wellness platform that encourages users to track their emotions, express their thoughts, and maintain a healthier mental state.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+🔮 Future Improvements
+AI chatbot for emotional support
+Mood analytics and visual graphs
+Meditation and relaxation suggestions
+Mobile responsive improvements
+👨‍💻 Author
+Developed by JAYAPPRATHA N
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
