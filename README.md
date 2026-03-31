@@ -1,4 +1,4 @@
-
+.
 
 🧠 Mental Health Companion
 A web-based platform that helps users monitor and improve their emotional well-being through mood tracking, journaling, and supportive tools.
@@ -80,5 +80,5 @@ Mood analytics and visual graphs
 Meditation and relaxation suggestions
 Mobile responsive improvements
 👨‍💻 Author
-Developed by JAYAPPRATHA N
+Developed by KARISHMA K
 
