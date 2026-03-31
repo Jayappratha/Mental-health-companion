@@ -80,5 +80,5 @@ Mood analytics and visual graphs
 Meditation and relaxation suggestions
 Mobile responsive improvements
 👨‍💻 Author
-Developed by KARISHMA K
+Developed by JAYAPPRATHA N
 
