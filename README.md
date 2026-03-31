@@ -1,4 +1,4 @@
-.
+
 
 🧠 Mental Health Companion
 A web-based platform that helps users monitor and improve their emotional well-being through mood tracking, journaling, and supportive tools.
